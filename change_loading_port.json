@@ -1,0 +1,15 @@
+
+[
+  {
+    "id": "arredondo_chute",
+    "type": "GUNMOD",
+    "copy-from": "arredondo_chute",
+    "name": { "str": "speedloader chute" },
+    "delete": { "install_time": "8 m" },
+    "delete": { "location": "loading port" },
+    "delete": { "mod_targets": [ "pistol", "shotgun" ] },
+    "delete": { "acceptable_ammo": [ "shot" ] },
+    "delete": { "magazine_adaptor": [ [ "shot", [ "shot_speedloader6", "shot_speedloader8" ] ] ] },
+    "delete": { "min_skills": [ [ "weapon", 2 ], [ "mechanics", 1 ] ] }
+  }
+]

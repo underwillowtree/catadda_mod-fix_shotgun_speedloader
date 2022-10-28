@@ -1,0 +1,20 @@
+[
+  {
+    "id": "shot_speedloader4",
+    "looks_like": "shotbelt_20",
+    "type": "MAGAZINE",
+    "name": { "str": "スピードローダー(12ga/4発)" },
+    "description": "ハンドルが付いた樹脂製の筒です。チューブ式弾倉をもつショットガンに挿入すれば、手作業よりはるかに短い時間で4発の弾薬を装填できます。より素早く装填するには差込口と併用する必要があります。",
+    "weight": "450 g",
+    "volume": "1650 ml",
+    "price": 3000,
+    "price_postapoc": 40,
+    "material": [ "plastic" ],
+    "symbol": "/",
+    "color": "light_gray",
+    "ammo_type": [ "shot" ],
+    "capacity": 4,
+    "flags": [ "SPEEDLOADER" ],
+    "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "shot": 4 } } ]
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "id": "arredondo_chute_4",
+    "type": "GUNMOD",
+    "name": { "str": "調整済みイージーローダー(12ga/装弾数4発)" },
+    "description": "ショットガン(装弾数4発)のローディングポートのサイズに調整したスピードローダー用補助器具です。",
+    "weight": "135 g",
+    "volume": "149 ml",
+    "integral_volume": "149 ml",
+    "price": 15700,
+    "price_postapoc": 250,
+    "install_time": "8 m",
+    "material": [ "aluminum" ],
+    "symbol": ":",
+    "color": "green",
+    "location": "loading port",
+    "mod_targets": [ "remington_870_breacher" ],
+    "pocket_mods": [ 
+      {
+        "pocket_type": "MAGAZINE",
+        "rigid": true,
+        "ammo_restriction": { "shot": 4 },
+        "allowed_speedloaders": [ "shot_speedloader4" ] 
+      } 
+    ],
+    "min_skills": [ [ "weapon", 2 ], [ "mechanics", 1 ] ]
+  },
+  {
+    "id": "arredondo_chute_5",
+    "type": "GUNMOD",
+    "name": { "str": "調整済みイージーローダー(12ga/装弾数5発)" },
+    "description": "ショットガン(装弾数5発)のローディングポートのサイズに調整したスピードローダー用補助器具です。",
+    "weight": "135 g",
+    "volume": "149 ml",
+    "integral_volume": "149 ml",
+    "price": 15700,
+    "price_postapoc": 250,
+    "install_time": "8 m",
+    "material": [ "aluminum" ],
+    "symbol": ":",
+    "color": "green",
+    "location": "loading port",
+    "mod_targets": [ "remington_870", "remington_1100", "browning_a5" ],
+    "pocket_mods": [ 
+      {
+        "pocket_type": "MAGAZINE",
+        "rigid": true,
+        "ammo_restriction": { "shot": 5 },
+        "allowed_speedloaders": [ "shot_speedloader4" ] 
+      } 
+    ],
+    "min_skills": [ [ "weapon", 2 ], [ "mechanics", 1 ] ]
+  },
+  {
+    "id": "arredondo_chute_6",
+    "type": "GUNMOD",
+    "name": { "str": "調整済みイージーローダー(12ga/装弾数6発)" },
+    "description": "ショットガン(装弾数6発)のローディングポートのサイズに調整したスピードローダー用補助器具です。",
+    "weight": "135 g",
+    "volume": "149 ml",
+    "integral_volume": "149 ml",
+    "price": 15700,
+    "price_postapoc": 250,
+    "install_time": "8 m",
+    "material": [ "aluminum" ],
+    "symbol": ":",
+    "color": "green",
+    "location": "loading port",
+    "mod_targets": [ "mossberg_500", "mossberg_500_security" ],
+    "pocket_mods": [ 
+      {
+        "pocket_type": "MAGAZINE",
+        "rigid": true,
+        "ammo_restriction": { "shot": 6 },
+        "allowed_speedloaders": [ "shot_speedloader4", "shot_speedloader6" ] 
+      } 
+    ],
+    "min_skills": [ [ "weapon", 2 ], [ "mechanics", 1 ] ]
+  },
+  {
+    "id": "arredondo_chute_7",
+    "type": "GUNMOD",
+    "name": { "str": "調整済みイージーローダー(12ga/装弾数7発)" },
+    "description": "ショットガン(装弾数7発)のローディングポートのサイズに調整したスピードローダー用補助器具です。",
+    "weight": "135 g",
+    "volume": "149 ml",
+    "integral_volume": "149 ml",
+    "price": 15700,
+    "price_postapoc": 250,
+    "install_time": "8 m",
+    "material": [ "aluminum" ],
+    "symbol": ":",
+    "color": "green",
+    "location": "loading port",
+    "mod_targets": [ "remington_870_express" ],
+    "pocket_mods": [ 
+      {
+        "pocket_type": "MAGAZINE",
+        "rigid": true,
+        "ammo_restriction": { "shot": 7 },
+        "allowed_speedloaders": [ "shot_speedloader4", "shot_speedloader6" ] 
+      } 
+    ],
+    "min_skills": [ [ "weapon", 2 ], [ "mechanics", 1 ] ]
+  },
+  {
+    "id": "arredondo_chute_8",
+    "type": "GUNMOD",
+    "name": { "str": "調整済みイージーローダー(12ga/装弾数8発)" },
+    "description": "ショットガン(装弾数8発)のローディングポートのサイズに調整したスピードローダー用補助器具です。",
+    "weight": "135 g",
+    "volume": "149 ml",
+    "integral_volume": "149 ml",
+    "price": 15700,
+    "price_postapoc": 250,
+    "install_time": "8 m",
+    "material": [ "aluminum" ],
+    "symbol": ":",
+    "color": "green",
+    "location": "loading port",
+    "mod_targets": [ "mossberg_930", "m1014" ],
+    "pocket_mods": [ 
+      {
+        "pocket_type": "MAGAZINE",
+        "rigid": true,
+        "ammo_restriction": { "shot": 8 },
+        "allowed_speedloaders": [ "shot_speedloader4", "shot_speedloader6", "shot_speedloader8" ] 
+      } 
+    ],
+    "min_skills": [ [ "weapon", 2 ], [ "mechanics", 1 ] ]
+  },
+  {
+    "id": "arredondo_chute_9",
+    "type": "GUNMOD",
+    "name": { "str": "調整済みイージーローダー(12ga/装弾数9発)" },
+    "description": "ショットガン(装弾数9発)のローディングポートのサイズに調整したスピードローダー用補助器具です。",
+    "weight": "135 g",
+    "volume": "149 ml",
+    "integral_volume": "149 ml",
+    "price": 15700,
+    "price_postapoc": 250,
+    "install_time": "8 m",
+    "material": [ "aluminum" ],
+    "symbol": ":",
+    "color": "green",
+    "location": "loading port",
+    "mod_targets": [ "mossberg_590", "SPAS_12" ],
+    "pocket_mods": [ 
+      {
+        "pocket_type": "MAGAZINE",
+        "rigid": true,
+        "ammo_restriction": { "shot": 9 },
+        "allowed_speedloaders": [ "shot_speedloader4", "shot_speedloader6", "shot_speedloader8" ] 
+      } 
+    ],
+    "min_skills": [ [ "weapon", 2 ], [ "mechanics", 1 ] ]
+  }
+]

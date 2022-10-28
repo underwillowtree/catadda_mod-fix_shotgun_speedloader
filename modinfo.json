@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "fix_shotgunspeedloader",
+    "name": "調整 - ショットガン用スピードローダーの応急処置",
+    "authors": [ "flum_uwt" ],
+    "description": "ショットガン用スピードローダーが機能するように調整します。",
+    "category": "items",
+    "dependencies": [ "dda" ]
+  }
+]

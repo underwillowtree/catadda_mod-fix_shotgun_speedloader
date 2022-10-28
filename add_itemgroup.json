@@ -1,0 +1,8 @@
+[
+  {
+    "type": "item_group",
+    "id": "mags_shotgun_common",
+    "copy-from": "mags_shotgun_common",
+    "extend": { "items": [ [ "shot_speedloader4", 15 ] ] }
+  }
+]
