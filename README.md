@@ -1,4 +1,6 @@
 # catadda_mod-fix_shotgun_speedloader
+CataJPディスコードとJPアップローダーにしかファイルを上げていなかったので、今後の保存のためgithubを作成
+
 使い方
 
 1. 「スピードローダー差込口(arredondo_chute)」を入手または作成する
